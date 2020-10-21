@@ -1,0 +1,13 @@
+C:\Users\jenif\source\repos\GetToKnow\GetToKnow\bin\Debug\netcoreapp3.1\GetToKnow.exe
+C:\Users\jenif\source\repos\GetToKnow\GetToKnow\bin\Debug\netcoreapp3.1\GetToKnow.deps.json
+C:\Users\jenif\source\repos\GetToKnow\GetToKnow\bin\Debug\netcoreapp3.1\GetToKnow.runtimeconfig.json
+C:\Users\jenif\source\repos\GetToKnow\GetToKnow\bin\Debug\netcoreapp3.1\GetToKnow.runtimeconfig.dev.json
+C:\Users\jenif\source\repos\GetToKnow\GetToKnow\bin\Debug\netcoreapp3.1\GetToKnow.dll
+C:\Users\jenif\source\repos\GetToKnow\GetToKnow\bin\Debug\netcoreapp3.1\GetToKnow.pdb
+C:\Users\jenif\source\repos\GetToKnow\GetToKnow\obj\Debug\netcoreapp3.1\GetToKnow.csprojAssemblyReference.cache
+C:\Users\jenif\source\repos\GetToKnow\GetToKnow\obj\Debug\netcoreapp3.1\GetToKnow.AssemblyInfoInputs.cache
+C:\Users\jenif\source\repos\GetToKnow\GetToKnow\obj\Debug\netcoreapp3.1\GetToKnow.AssemblyInfo.cs
+C:\Users\jenif\source\repos\GetToKnow\GetToKnow\obj\Debug\netcoreapp3.1\GetToKnow.csproj.CoreCompileInputs.cache
+C:\Users\jenif\source\repos\GetToKnow\GetToKnow\obj\Debug\netcoreapp3.1\GetToKnow.dll
+C:\Users\jenif\source\repos\GetToKnow\GetToKnow\obj\Debug\netcoreapp3.1\GetToKnow.pdb
+C:\Users\jenif\source\repos\GetToKnow\GetToKnow\obj\Debug\netcoreapp3.1\GetToKnow.genruntimeconfig.cache
